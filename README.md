@@ -21,57 +21,6 @@ I love building meaningful projects, solving challenges, and constantly learning
 
 ---
 
-## 🛠️ Skills & Tools
-
-### **Languages**
-JavaScript, TypeScript, PHP, Python, SQL
-
-### **Frontend**
-React, Next.js, Tailwind CSS, UI/UX Design
-
-### **Backend**
-Node.js, Express.js, Laravel, REST APIs
-
-### **Databases**
-MySQL, PostgreSQL, MongoDB
-
-### **AI / LLM Tools**
-LangChain, RAG, Vector Databases basics
-
-### **Dev Tools**
-Git, GitHub, Docker, VS Code, Linux, Postman
-
----
-
-## 🌟 Projects & Highlights
-
-### 💊 **E-Market Pharmacy** – Full-Stack Pharmacy Platform  
-- Laravel RESTful backend  
-- React/Next.js frontend UI  
-- Prescription upload, order tracking, and pharmacy management  
-
-### 🍕 **Pizza App** – Food Ordering Web App  
-- Modern React frontend  
-- Reusable components & cart system  
-- Clean UI/UX focus  
-
-### 📚 **Josad Academy Landing Page** – TypeScript + React  
-- Pixel-perfect implementation from Figma  
-- Built reusable and responsive UI components  
-
-### 🧩 **JavaScript Mini Projects**  
-- Interactive web apps  
-- UI components  
-- DOM-based logic practice  
-
-### 🔒 **Security Onion IDS Project**  
-- Network threat detection & analysis  
-- VMware lab setup & monitoring  
-
-*(More creative + AI projects on the way!)*  
-
----
-
 ## 📈 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=samra-eshetu&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
